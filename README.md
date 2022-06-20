@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @isaacagyeiannor, a full stack web developer
+- 👋 Hi, I’m @isaacagyeiannor, a frontend web developer
 - 👀 I’m interested in Web Apps
-- 🌱 I’m currently on a project called Nekiva (www.nekiva.org)
+- 🌱 You can visit my website www.karlowebsytz.com
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me via mail (isaacagyeiannor@gmail.com)
 
