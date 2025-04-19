@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaacagyeiannor, a frontend web developer
+- 👋 Hi, I’m @isaacagyeiannor, a full-stack (FE) web developer
 - 👀 I’m interested in Web Apps
 - 🌱 You can visit my website www.karlowebsytz.com
 - 💞️ I’m looking to collaborate on web projects
